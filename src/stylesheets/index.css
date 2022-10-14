@@ -1,0 +1,15 @@
+/*noinspection CssUnknownTarget*/
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono&display=swap');
+
+body {
+    width: 100%;
+    height: 100%;
+
+    background-color: #FDFDBD;
+    color: #B1AFFF;
+}
+
+* {
+    user-select: none;
+    font-family: 'JetBrains Mono', monospace;
+}
